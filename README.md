@@ -43,6 +43,7 @@ This approach makes the program easier to maintain and reuse.
 
 Additionally, a **time-delay interrupt** is implemented.
 The interrupt is triggered when the conveyor speed exceeds the defined limit, ensuring a fast and reliable system response.
+After the defined delay, the system is automatically stopped to prevent errors or damage.
 
 ---
 
