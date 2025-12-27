@@ -50,4 +50,4 @@ The interrupt is triggered when the conveyor speed exceeds the defined limit, en
 - PLC programming (TIA Portal)
 - Factory I/O (Simulation)
 
-![PLC Ladder Diagram](images/tia_ladder.png)
+![PLC Ladder Diagram]([https://github.com/MelihCimen482/weight-based-product-sorting-system/blob/7116ac789d2c526dae7cb555c1d17925a9624f51/images/Project_1.2.png]
