@@ -52,3 +52,4 @@ The interrupt is triggered when the conveyor speed exceeds the defined limit, en
 
 ![Factory I/O Image](https://github.com/MelihCimen482/weight-based-product-sorting-system/blob/7116ac789d2c526dae7cb555c1d17925a9624f51/images/Project_1.2.png)
 ![TIA_PORTAL_ALARM_STATUS](https://github.com/MelihCimen482/weight-based-product-sorting-system/blob/1bb302bef63b4c44febc7e5ba2cf141cd2de24a5/images/Project_1.4.png)
+![FACTORY I/O_ALARM_STATUS](https://github.com/MelihCimen482/weight-based-product-sorting-system/blob/87362d2cf561f4fe34467a912c1fe37dcb0cc7c9/images/Project_1.3.png)
