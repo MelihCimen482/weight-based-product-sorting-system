@@ -51,7 +51,7 @@ After the defined delay, the system is automatically stopped to prevent errors o
 - PLC programming (TIA Portal)
 - Factory I/O (Simulation)
 
-  ### How to open the project
+ ### How to open the project
 1. Open **TIA Portal**
 2. Select **Browse** 
 3. Choose the archived `.zap` file located in the `plc/` directory
